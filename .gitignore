@@ -1,4 +1,2 @@
+.DS_Store
 .idea/
-node_modules/
-test.flac
-package-lock.json
